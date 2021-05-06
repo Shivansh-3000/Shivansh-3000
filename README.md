@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivansh-gairola-289797203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shivansh gairola" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15191215/upredictable-3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="Shivansh Gairola" height="30" width="40" /></a>
-<a href="https://fb.com/Shivansh Gairola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="Shivansh Gairola" height="30" width="40" /></a>
-<a href="https://instagram.com/unpredictable_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="unpredictable_3000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Shivansh Gairola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="shivansh gairola" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivansh-gairola-289797203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivansh gairola" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15191215/upredictable-3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Shivansh Gairola" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shivansh.gairola.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shivansh Gairola" height="30" width="40" /></a>
+<a href="https://instagram.com/unpredictable_3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="unpredictable_3000" height="30" width="40" /></a>
+<a href="https://leetcode.com/unpredictable_3000/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="shivansh gairola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
