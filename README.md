@@ -1,9 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <h1 align="center">Hi 👋, I'm Shivansh Gairola</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **web development and dsa**
+<h3 align="center">A passionate Developer from India</h3>
 
 - 📫 How to reach me **gairolashivansh@gmail.com**
 
